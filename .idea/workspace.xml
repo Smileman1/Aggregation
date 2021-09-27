@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c98c5b0d-bbf7-451d-b95d-423e0c20c21b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Server/GetMovieRank.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Server/GetMovieRank.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/MovieRank.py" beforeDir="false" afterPath="$PROJECT_DIR$/Server/MovieRank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/tmp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/Client/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/GetMovieRank.js" beforeDir="false" afterPath="$PROJECT_DIR$/Server/GetMovieRank.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="JavaScript File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -34,10 +35,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Node.js.GetMovieRank.js">
+  <component name="RunManager" selected="Python.GetMovieRank">
     <configuration name="GetMovieRank.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Server/GetMovieRank.js" working-dir="$PROJECT_DIR$/Server">
       <method v="2" />
     </configuration>
@@ -116,6 +118,10 @@
       <workItem from="1628773905872" duration="55000" />
       <workItem from="1628773999665" duration="2432000" />
       <workItem from="1628847458076" duration="2904000" />
+      <workItem from="1628868271680" duration="131000" />
+      <workItem from="1629621318446" duration="1235000" />
+      <workItem from="1629697519238" duration="34000" />
+      <workItem from="1630651902836" duration="1204000" />
     </task>
     <servers />
   </component>
