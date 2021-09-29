@@ -21,7 +21,7 @@ let url = "mongodb+srv://아이디자리:" + encodeURIComponent("비번자리")+
 mongoose.connect(url, {useNewUrlParser: true, useUnifiedTopology: true, dbName:'test'}, function(err){
     console.log('err::' + err)
 });
-
+ 
 //다이어리 데이터모델 설정
 var Schema = mongoose.Schema;
 
